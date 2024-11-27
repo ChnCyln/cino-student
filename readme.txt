@@ -1,1 +1,1 @@
-bu yeni bir repo
+bu yeni bir reposlandı
